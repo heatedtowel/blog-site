@@ -1,6 +1,18 @@
 [
   {
-    "title": "Blog 1"
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci sagittis eu volutpat odio facilisis mauris sit amet massa.",
+    "comment": "comment 1",
+    "author" : "user 1"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci sagittis eu volutpat odio facilisis mauris sit amet massa.",
+    "comment": "comment 2",
+    "author" : "user 2"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci sagittis eu volutpat odio facilisis mauris sit amet massa.",
+    "comment": "comment 3",
+    "author" : "user 3"
   }
 ]
 

@@ -6,8 +6,10 @@ class Blog extends Model {}
 
 Blog.init({
   title: DataTypes.STRING,
+  comment: DataTypes.STRING,
+  author: DataTypes.STRING,
 }, {
-  timestamps: false,
+  timestamps: true,
   freezeTableName: true,
   modelName: 'blog',
   underscored: true,
